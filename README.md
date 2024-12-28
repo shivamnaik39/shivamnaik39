@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Shivam Naik<br>🔭 Full  Stack Developer (MERN) | 🐧 Linux Enthusiast<br>📺 Likes to watch Anime in Free time<br>🌱 I’m currently learning Spring Framework<br>💬 Ask me about MERN Stack, Linux, Python<br>⚡ Fun fact : French Fries is not French
+Hi 👋, I'm Shivam Naik<br>🔭 Full  Stack Developer (Spring Boot & React) | 🐧 Linux Enthusiast<br>📺 Likes to watch Anime in Free time<br>🌱 I’m currently learning about Azure Cloud services<br>💬 Ask me about Java, Spring Boot, Docker<br>⚡ Fun fact : French Fries is not French
 
 
 ## 🌐 Socials:
